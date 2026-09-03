@@ -166,7 +166,7 @@ The baseline achieves a lower QE (finer mapping resolution on the original, less
 - [`pandas`](https://pandas.pydata.org/) - reading and processing the dataset
 - [`numpy`](https://numpy.org/) - numerical operations and feature transformation
 - [`scikit-learn`](https://scikit-learn.org/) - normalization, train/test split, and evaluation metrics
-- [`MiniSom`] - building and training the Self-Organizing Map
+- [`MiniSom`](https://github.com/JustGlowing/minisom) — building and training the Self-Organizing Map
 - [`imbalanced-learn`](https://imbalanced-learn.org/) - applying SMOTE to the training data
 
 ## Getting Started
