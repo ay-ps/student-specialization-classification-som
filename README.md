@@ -187,4 +187,4 @@ jupyter notebook notebooks/SOM_SMOTE.ipynb
 Presented at the 4th International Conference on Information Technology and Computing (ICITCOM 2026), held under The 10th International Conference on Sustainable Innovation (ICoSI), Universitas Muhammadiyah Yogyakarta.
 
 ## Authors
-**Ayu Parnida Sinaga** - Department of Informatics and Computer Engineering Education, Universitas Negeri Jakarta
+**Ayu Sinaga** - Department of Informatics and Computer Engineering Education, Universitas Negeri Jakarta
