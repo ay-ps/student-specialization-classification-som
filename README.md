@@ -34,7 +34,7 @@ This project proposes **SOM** as an unsupervised, interpretable approach to this
 
 The project follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) framework end to end, from business understanding through evaluation.
 
-![Research Workflow](images/Research%20%20Methodology.png)
+<img src="images/Research%20%20Methodology.png" width="40%" alt="Research Workflow">
 
 ## Dataset
 
