@@ -84,11 +84,11 @@ Two complementary evaluation lenses were used:
 │   ├── SOM_Baseline.ipynb      # Baseline SOM pipeline (no SMOTE)
 │   └── SOM_SMOTE.ipynb         # SOM pipeline with SMOTE-balanced training data
 ├── images/
-│   ├── Alur Penelitian.svg               # CRISP-DM research workflow (Fig. 1)
-│   ├── U-Matrix Baseline.svg             # U-Matrix, baseline model (Fig. 2a)
-│   ├── U-Matrix SMOTE.svg                # U-Matrix, SMOTE model (Fig. 2b)
-│   ├── SOM Classification Map Baseline.svg  # Labeled neuron map, baseline (Fig. 3a)
-│   └── SOM Classification Map SMOTE.svg     # Labeled neuron map, SMOTE (Fig. 3b)
+│   ├── Alur Penelitian.svg               # CRISP-DM research workflow 
+│   ├── U-Matrix Baseline.svg             # U-Matrix, baseline model 
+│   ├── U-Matrix SMOTE.svg                # U-Matrix, SMOTE model
+│   ├── SOM Classification Map Baseline.svg  # Labeled neuron map, baseline 
+│   └── SOM Classification Map SMOTE.svg     # Labeled neuron map, SMOTE
 ├── .gitignore
 └── README.md
 ```
